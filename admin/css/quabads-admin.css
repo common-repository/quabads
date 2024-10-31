@@ -1,0 +1,15 @@
+.toplevel_page_quabads > .wp-menu-image::before {
+    content: '';
+    display: inline-block;
+    padding: 7px 0;
+    width: 20px;
+    height: 20px;
+    background: url('../img/icon.png') center center no-repeat;
+    background-size: contain;
+}
+
+.quabads .form-table + h2 {
+	margin-top: 1em;
+	padding-top: 2em;
+	border-top: 1px solid #CCC;
+}
